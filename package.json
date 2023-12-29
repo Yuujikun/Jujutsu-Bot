@@ -1,7 +1,7 @@
 {
-  "name": "Cheems-Bot-MD",
+  "name": "Jujutsu-Bot-MD",
   "version": "8.0.0",
-  "description": "Automated whatsapp md bot created using nodejs and baileys lib",
+  "description": "Automated whatsapp bot created using curse energy and codes",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -93,7 +93,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD8.git"
+    "url": "git+https://github.com/Yuujikun/Jujutsu-Bot"
   },
   "bugs": {
     "url": "https://github.com/DGXeon/CheemsBot-MD8/issues"
